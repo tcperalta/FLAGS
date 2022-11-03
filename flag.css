@@ -1,0 +1,12 @@
+body
+{
+	background-color: lightcoral;
+	text-align: center;
+}
+
+#mycanvas
+{
+	background-color: white;
+	border: 2px solid black;
+	margin: 30px;
+}
